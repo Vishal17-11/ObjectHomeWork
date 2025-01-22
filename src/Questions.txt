@@ -1,0 +1,17 @@
+/*
+1. Create a class representing a library book with private member variables (title, author, price)
+and public methods (getters and setters)
+2. Create a class representing a computer with private member variable (brand, model, price)
+and public methods (getters and setters)
+3. WAP to Print Multiplication Table of a Number
+4. WAP to find the maximum of two numbers (Method Overloading)
+5. WAP to calculate power of a number (Method Overloading)
+6. WAP to find the area of regular polygon (Method Overloading)
+7. WAP to calculate perimeter of rectangle n(Method Overloading)
+8. Given a number n, check if a number is perfect or not. A number is said to be perfect if sum
+of all its factors excluding the number itself is equal to the number.
+
+
+
+
+*/
